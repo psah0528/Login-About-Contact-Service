@@ -1,0 +1,154 @@
+*{
+ padding: 0;
+ margin: 0;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.about{
+ color: white;
+ width: 100%;
+ height: 40vh;
+ background: linear-gradient(rgba(8,0,58,0.7 ), rgba(8,0,58,0.7 )), url('../assets/image1.jpg');
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+.about h2{
+ font-size: 50px;
+ font-weight: 600;
+}
+.LR1{
+ display: flex;
+ padding: 30px;
+ width: 100%;
+ height: 50vh;
+ background-color: rgb(109, 191, 195);
+}
+.LR2{
+ height: 40vh;
+ width: 35%;
+ margin-left: 150px;
+ margin-top: 12px;
+
+}
+.LR3{
+ color: white;
+ text-align: center;
+ margin: 30px;
+ width: 35%;
+ height: 40vh ;
+ font-size: 20px;
+}
+.LR3 h2{
+ margin-top: 50px;
+ margin-bottom: 10px;
+ font-size: 30px;
+}
+
+.LR2 img{
+ background-size: cover;
+ width: 100%;
+}
+
+.Knowus1{
+ color: black;
+ font-size: 10px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ margin: 20px;
+ line-height: 30px;
+ margin-top: 40px;
+}
+.Knowus1 h2{
+ font-size: 30px;
+ justify-content: center;
+ align-items: center;
+ display: flex;
+font-weight: 600;
+
+}
+.Knowus1 p{
+ text-align: center;
+font-size: 18px;
+margin-top: 15px;
+}
+
+.MV{
+ margin-top: 50px;
+ display: flex;
+ padding: 30px;
+ width: 100%;
+ height: 50vh;
+ /* background-color: rgb(109, 191, 195); */
+}
+.mv2{
+ position: absolute;
+ left: 43%;
+ height: 40vh;
+ width: 35%;
+ margin-left: 150px;
+ margin-top: 12px;
+}
+.imgs{
+ margin-left: 40px;
+ margin-top: 12px;
+}
+.imgs img{ 
+ background-size: cover;
+ width: 140%;
+ height: 100%;
+}
+.mv2 h2{
+ text-align: center;
+ margin-top: 50px;
+ margin-bottom: 10px;
+ font-size: 30px;
+ color: black;
+}
+.mv2 p{
+ text-align: center;
+ font-size: 18px;
+ margin-top: 15px;
+ color: black;
+ line-height: 25px;
+}
+.tm1{
+ margin-top: 50px;
+ display: flex;
+ padding: 30px;
+ width: 100%;
+ height: 50vh;
+}
+.tm3{
+ position: absolute;
+ right: 50%;
+ height: 40vh;
+ width: 35%;
+ margin-left: 150px;
+ margin-top: 12px;
+}
+.tm2{
+ position: absolute;
+ left: 50%;
+ margin-left: 150px;
+ margin-top: 12px;
+}
+.tm2 img{
+ background-size: cover;
+ width: 90%;
+ height: 90%;
+}
+.tm3 h2{
+ text-align: center;
+ margin-top: 50px;
+ margin-bottom: 10px;
+ font-size: 30px;
+ color: black;
+}
+.tm3 p{
+ text-align: center;
+ font-size: 18px;
+ margin-top: 15px;
+ color: black;
+ line-height: 25px;
+}
